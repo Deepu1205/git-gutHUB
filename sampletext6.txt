@@ -1,0 +1,6 @@
+Hi this is my first code file
+
+i want to devlope a Game on Java
+
+I am Java Devopper and I am developing A Game.
+I have completed 50 &% of the project.This game is about total city
